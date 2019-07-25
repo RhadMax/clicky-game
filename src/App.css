@@ -32,7 +32,49 @@
   }
 }
 
-img {
-  height: 250px;
+.navbar {
+  z-index: 999;
   width: 100%;
+  position: fixed;
+  top: 0;
+  background-color: cornflowerblue;
+}
+
+.intro {
+  margin-top: 85px;
+  margin-bottom: 25px;
+}
+
+.card {
+  /* height: 150px;
+  width: 200px;
+  margin: 15px; */
+  height: 100%;
+  width: 100%;
+}
+
+.image-box {
+  box-shadow: -1px -1px 5px 2px black;
+  margin: 15px;
+  padding: 5px;
+  height: 200px;
+  width: 150px;
+}
+
+.image-box:hover {
+  box-shadow: -1px -1px 12px 12px cornflowerblue;
+  padding: 0px;
+  margin: 0px 15px;
+  height: 203px;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.message-box {
+  width: 100%;
+  margin: 0 auto;
+  color: rgb(180, 180, 180);
 }

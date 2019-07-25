@@ -10,9 +10,8 @@
     {"relPath": "quasi.jpg", "id": "i"},
     {"relPath": "rafael.jpg", "id": "j"},
     {"relPath": "simba.jpg", "id": "k"},
-    {"relPath": "smurf.jpg", "id": "l"},
-    {"relPath": "stitch.jpg", "id": "m"},
-    {"relPath": "taz.jpg", "id": "n"},
-    {"relPath": "trumpfrog.jpg", "id": "o"},
-    {"relPath": "trumpfrog2.jpg", "id": "p"}
+    {"relPath": "stitch.jpg", "id": "l"},
+    {"relPath": "taz.jpg", "id": "m"},
+    {"relPath": "trumpfrog.jpg", "id": "n"},
+    {"relPath": "trumpfrog2.jpg", "id": "o"}
 ]
