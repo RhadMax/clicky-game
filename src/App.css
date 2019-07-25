@@ -78,3 +78,19 @@ img {
   margin: 0 auto;
   color: rgb(180, 180, 180);
 }
+
+#user-alert {
+  will-change: color;
+}
+
+.red-text {
+  width: 100%;
+  margin: 0 auto;
+  color: red;
+}
+
+.green-text {
+  width: 100%;
+  margin: 0 auto;
+  color: green;
+}
